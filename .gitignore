@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/LeaveManagerTest3/packages.config
+/LeaveManagerTest3/favicon.ico
+/LeaveManagerTest3/Global.asax
+/LeaveManagerTest3/Global.asax.cs
+/LeaveManagerTest3/Web.config
+/LeaveManagerTest3/Web.Debug.config
+/LeaveManagerTest3/Web.Release.config
+/LeaveManagerTest3/WebRoleProvider.cs
+/LeaveManagerTest3/Properties/AssemblyInfo.cs
+/LeaveManagerTest3/LeaveManagerTest3.csproj
+/LeaveManagerTest3.sln
